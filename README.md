@@ -21,4 +21,4 @@ Price tiers:
 After payment, you will receive the complete private version.
 
 ## Payment QR Code
-![Payment] （https://github.com/119796/agent-survival-rules/blob/main/f38e3a900fb654be059d4515dfcb5148.jpg）
+![Payment]（https://github.com/119796/agent-survival-rules/blob/main/f38e3a900fb654be059d4515dfcb5148.jpg）
