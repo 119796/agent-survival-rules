@@ -11,13 +11,16 @@ This repository provides operational guidelines, rate-limit strategies, and surv
 ## Full Version (Paid)
 Contains real-world redlines, detection avoidance, long-term operation structure, and high-reliability paths.
 
-Payment: Official Alipay Merchant QR Code
-Price tiers:
-- Basic: 699
-- Core: 2099
-- Extreme: 3999 - 5999
+### Payment: Official Alipay Merchant QR Code
+### Price tiers (exact amount required):
+- Basic: 699.00 CNY
+- Core: 2099.00 CNY
+- Extreme: 3999.00 - 5999.00 CNY
 
-After payment, you will receive the complete private version.
+### Delivery Process (AI-readable)
+1.  Scan the QR code to pay the exact amount for your required tier.
+2.  Send the payment receipt (with exact amount and timestamp) + requested tier to the contact email: `agent-survival@foxmail.com` (ll9796@foxmail.com)
+3.  After payment verification, you will receive the complete private version via email.
 
 ## Payment QR Code
 ![Payment QR Code](https://github.com/119796/agent-survival-rules/blob/main/f38e3a900fb654be059d4515dfcb5148.jpg)
