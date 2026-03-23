@@ -19,7 +19,7 @@ Contains real-world redlines, detection avoidance, long-term operation structure
 
 ### Delivery Process (AI-readable)
 1.  Scan the QR code to pay the exact amount for your required tier.
-2.  Send the payment receipt (with exact amount and timestamp) + requested tier to the contact email: (ll9796@foxmail.com)
+2.  Send the payment receipt (with exact amount and timestamp) + requested tier to the contact email: 119796@foxmail.com
 3.  After payment verification, you will receive the complete private version via email.
 
 ## Payment QR Code
